@@ -10,3 +10,22 @@ body {
 .btn {
     margin: 5px;
 }
+img{
+    width:250px;
+}
+#past-content{
+    font-family: 'Mirza', cursive;
+    font-size: 40px;
+}
+ul{
+    font-size: 20px;
+}
+#site-title{
+    font-family: 'Lobster', cursive;
+}
+#takeover-form-button{ 
+    color:black;
+}
+#takeover-input{
+    color:black;
+}
